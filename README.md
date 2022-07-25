@@ -1,4 +1,4 @@
-# 咖小镇
+# 咖小镇   ![GitHub](https://visitor-badge.glitch.me/badge?page_id=CoffeeTown.CoffeeTown-Backend)
 
 **起始日：2022年7月23日 星期六**
 
