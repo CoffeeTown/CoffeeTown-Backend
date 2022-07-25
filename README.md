@@ -1,6 +1,10 @@
 # 咖小镇
 
-**本项目起始日：2022年7月23日 星期六**
+**起始日：2022年7月23日 星期六**
+
+![GitHub](https://img.shields.io/github/license/CoffeeTown/CoffeeTown-Backend?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/CoffeeTown/CoffeeTown-Backend?style=for-the-badge)
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Services&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Ftown.0xcafebabe.cn)
 
 ## 📔 相关
 
